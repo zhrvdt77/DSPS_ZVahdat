@@ -9,4 +9,4 @@ I learned data science in practice and by doing projects.
 - I'll be very helpful to gain some skills and hands-on experiences on exploratory data analysis.
   Needles to say that I'm sure I'll enjoy the rest of the course materials as well.
   
-4) I love coding and I'm good in mathematics and probability. I have a pretty good experience working in Jupyter and DataFrames. (There is still a lot to learn)
+3) I love coding and I'm good in mathematics and probability. I have a pretty good experience working in Jupyter and DataFrames. (There is still a lot to learn)
